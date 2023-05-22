@@ -15,7 +15,7 @@
 		- Start sch
 
 - MAX1000 integration to Arduino
-	- RISC-V code from Pijetlo
+	+ RISC-V code from Pijetlo
 	
 - Power meter
 	- Power Meter
