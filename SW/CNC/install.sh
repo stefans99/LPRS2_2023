@@ -17,7 +17,7 @@ qmake
 
 make -j4
 mkdir -p ~/.local/bin/
-sudo cp -v Candle ~/.local/bin/
+cp -v Candle ~/.local/bin/
 
 popd
 rm -rf Candle
