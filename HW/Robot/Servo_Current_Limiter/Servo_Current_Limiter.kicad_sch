@@ -1461,17 +1461,17 @@
     (path "/12adf818-8794-46e2-99f3-234015e1d973/c9588d57-4570-4887-b008-71ae730fb793"
       (reference "#PWR029") (unit 1) (value "GND") (footprint "")
     )
-    (path "/dc1636fd-6236-4e0b-b49f-ec5828a1d2c9/433263ad-421c-4d9d-9eb8-5270e1a68252/0cecfa14-dd63-4c75-b6ea-c2532b5b793f"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/0cecfa14-dd63-4c75-b6ea-c2532b5b793f"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
-    (path "/12adf818-8794-46e2-99f3-234015e1d973/433263ad-421c-4d9d-9eb8-5270e1a68252/0cecfa14-dd63-4c75-b6ea-c2532b5b793f"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/dc1636fd-6236-4e0b-b49f-ec5828a1d2c9/433263ad-421c-4d9d-9eb8-5270e1a68252/0cecfa14-dd63-4c75-b6ea-c2532b5b793f"
+      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
     )
     (path "/8576e3be-bd6a-4806-a383-a91d4a9fc6e0/433263ad-421c-4d9d-9eb8-5270e1a68252/0cecfa14-dd63-4c75-b6ea-c2532b5b793f"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
     )
-    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/0cecfa14-dd63-4c75-b6ea-c2532b5b793f"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    (path "/12adf818-8794-46e2-99f3-234015e1d973/433263ad-421c-4d9d-9eb8-5270e1a68252/0cecfa14-dd63-4c75-b6ea-c2532b5b793f"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
     )
     (path "/3f820c47-2e2b-42fc-b572-02fb33521462"
       (reference "A1") (unit 1) (value "Arduino_UNO_R3") (footprint "For_Rasterboard:Arduino_UNO_R3_WithMountingHoles_Snapped_to_P2.54mm")
@@ -1527,32 +1527,32 @@
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/65ad2541-dd14-40de-820e-907c3d057119"
       (reference "Q1") (unit 1) (value "IRF4905") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
-    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/72f8dffb-d06c-4897-91bc-b10ac3642e02"
-      (reference "Q2") (unit 1) (value "BC338") (footprint "For_Rasterboard:TO-92_Inline_inf")
+    (path "/18a28627-1db1-4a0b-947d-f716714df9ad/5d2d45dd-1512-4293-915a-6260736c03ce"
+      (reference "Q2") (unit 1) (value "BC548") (footprint "For_Rasterboard:TO-92_Inline_inf")
     )
     (path "/dc1636fd-6236-4e0b-b49f-ec5828a1d2c9/65ad2541-dd14-40de-820e-907c3d057119"
       (reference "Q3") (unit 1) (value "IRF4905") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
-    (path "/dc1636fd-6236-4e0b-b49f-ec5828a1d2c9/72f8dffb-d06c-4897-91bc-b10ac3642e02"
-      (reference "Q4") (unit 1) (value "BC338") (footprint "For_Rasterboard:TO-92_Inline_inf")
+    (path "/dc1636fd-6236-4e0b-b49f-ec5828a1d2c9/5d2d45dd-1512-4293-915a-6260736c03ce"
+      (reference "Q4") (unit 1) (value "BC548") (footprint "For_Rasterboard:TO-92_Inline_inf")
     )
     (path "/8576e3be-bd6a-4806-a383-a91d4a9fc6e0/65ad2541-dd14-40de-820e-907c3d057119"
       (reference "Q5") (unit 1) (value "IRF4905") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
-    (path "/8576e3be-bd6a-4806-a383-a91d4a9fc6e0/72f8dffb-d06c-4897-91bc-b10ac3642e02"
-      (reference "Q6") (unit 1) (value "BC338") (footprint "For_Rasterboard:TO-92_Inline_inf")
+    (path "/8576e3be-bd6a-4806-a383-a91d4a9fc6e0/5d2d45dd-1512-4293-915a-6260736c03ce"
+      (reference "Q6") (unit 1) (value "BC548") (footprint "For_Rasterboard:TO-92_Inline_inf")
     )
     (path "/12adf818-8794-46e2-99f3-234015e1d973/65ad2541-dd14-40de-820e-907c3d057119"
       (reference "Q7") (unit 1) (value "IRF4905") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
-    (path "/12adf818-8794-46e2-99f3-234015e1d973/72f8dffb-d06c-4897-91bc-b10ac3642e02"
-      (reference "Q8") (unit 1) (value "BC338") (footprint "For_Rasterboard:TO-92_Inline_inf")
+    (path "/12adf818-8794-46e2-99f3-234015e1d973/5d2d45dd-1512-4293-915a-6260736c03ce"
+      (reference "Q8") (unit 1) (value "BC548") (footprint "For_Rasterboard:TO-92_Inline_inf")
     )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/512a76b4-a486-43e5-b07f-9543c3ee410b"
       (reference "R1") (unit 1) (value "220") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/ae57e91c-5723-4583-8728-3d29c638ab36"
-      (reference "R2") (unit 1) (value "0.1") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R2") (unit 1) (value "0.1") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/bce58553-05b1-4550-9102-991d29c93a9a"
       (reference "R3") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
@@ -1561,7 +1561,7 @@
       (reference "R4") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P5.08mm_Vertical")
     )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/b68514ad-b0ea-4258-9114-d8b9d50b90e4"
-      (reference "R5") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R5") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/18a28627-1db1-4a0b-947d-f716714df9ad/433263ad-421c-4d9d-9eb8-5270e1a68252/b73c0be4-0400-4662-ab02-30470ba9239b"
       (reference "R6") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
@@ -1570,7 +1570,7 @@
       (reference "R7") (unit 1) (value "220") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/dc1636fd-6236-4e0b-b49f-ec5828a1d2c9/ae57e91c-5723-4583-8728-3d29c638ab36"
-      (reference "R8") (unit 1) (value "0.1") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R8") (unit 1) (value "0.1") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/dc1636fd-6236-4e0b-b49f-ec5828a1d2c9/433263ad-421c-4d9d-9eb8-5270e1a68252/bce58553-05b1-4550-9102-991d29c93a9a"
       (reference "R9") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
@@ -1579,7 +1579,7 @@
       (reference "R10") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/dc1636fd-6236-4e0b-b49f-ec5828a1d2c9/433263ad-421c-4d9d-9eb8-5270e1a68252/b68514ad-b0ea-4258-9114-d8b9d50b90e4"
-      (reference "R11") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R11") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/dc1636fd-6236-4e0b-b49f-ec5828a1d2c9/433263ad-421c-4d9d-9eb8-5270e1a68252/b73c0be4-0400-4662-ab02-30470ba9239b"
       (reference "R12") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
@@ -1588,7 +1588,7 @@
       (reference "R13") (unit 1) (value "220") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/8576e3be-bd6a-4806-a383-a91d4a9fc6e0/ae57e91c-5723-4583-8728-3d29c638ab36"
-      (reference "R14") (unit 1) (value "0.1") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R14") (unit 1) (value "0.1") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/8576e3be-bd6a-4806-a383-a91d4a9fc6e0/433263ad-421c-4d9d-9eb8-5270e1a68252/bce58553-05b1-4550-9102-991d29c93a9a"
       (reference "R15") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
@@ -1597,7 +1597,7 @@
       (reference "R16") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/8576e3be-bd6a-4806-a383-a91d4a9fc6e0/433263ad-421c-4d9d-9eb8-5270e1a68252/b68514ad-b0ea-4258-9114-d8b9d50b90e4"
-      (reference "R17") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R17") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8576e3be-bd6a-4806-a383-a91d4a9fc6e0/433263ad-421c-4d9d-9eb8-5270e1a68252/b73c0be4-0400-4662-ab02-30470ba9239b"
       (reference "R18") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
@@ -1606,7 +1606,7 @@
       (reference "R19") (unit 1) (value "220") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/12adf818-8794-46e2-99f3-234015e1d973/ae57e91c-5723-4583-8728-3d29c638ab36"
-      (reference "R20") (unit 1) (value "0.1") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R20") (unit 1) (value "0.1") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/12adf818-8794-46e2-99f3-234015e1d973/433263ad-421c-4d9d-9eb8-5270e1a68252/bce58553-05b1-4550-9102-991d29c93a9a"
       (reference "R21") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
@@ -1615,7 +1615,7 @@
       (reference "R22") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/12adf818-8794-46e2-99f3-234015e1d973/433263ad-421c-4d9d-9eb8-5270e1a68252/b68514ad-b0ea-4258-9114-d8b9d50b90e4"
-      (reference "R23") (unit 1) (value "10k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R23") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/12adf818-8794-46e2-99f3-234015e1d973/433263ad-421c-4d9d-9eb8-5270e1a68252/b73c0be4-0400-4662-ab02-30470ba9239b"
       (reference "R24") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
