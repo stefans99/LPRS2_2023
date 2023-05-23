@@ -721,7 +721,7 @@
   (symbol (lib_id "Servo_Current_Limiter-cache:BC548") (at 180.34 77.47 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5d2d45dd-1512-4293-915a-6260736c03ce)
-    (property "Reference" "Q2" (id 0) (at 175.26 76.1999 0)
+    (property "Reference" "Q8" (id 0) (at 175.26 76.1999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC548" (id 1) (at 175.26 78.7399 0)
